@@ -4,9 +4,9 @@ downloads first result of your search query in the current directory. Catagories
 can hadle both http and https download links aong with the extensions.
 
 Command:
-node download_filechef.js <catagory> <search query>
+node download_filechef.js catagory search_query
   
-  <catagory>
+  Catagories:
     audio
     video
     image
